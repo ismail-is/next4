@@ -1,0 +1,29 @@
+{
+  "title": {
+    "first": "Best Designers",
+    "second": "Architectures for You."
+  },
+  "image": "/assets/img/Architectures/boximg.jpg",
+  "content": "At The Architecture Corporation, we're creators of inspiring spaces. With our experienced team, we craft tailored solutions that exceed expectations, from iconic landmarks to intimate retreats. Explore our portfolio, and let's bring your vision to life.",
+  "exp": {
+    "nmb": 21,
+    "since": 1999
+  },
+  "numbers": [
+    {
+      "id": 1,
+      "number": 352,
+      "name": "PROJECTS COMPLETED"
+    },
+    {
+      "id": 2,
+      "number": 567,
+      "name": "SATISFIED CLIENTS"
+    },
+    {
+      "id": 3,
+      "number": 17,
+      "name": "AWARDS WON"
+    }
+  ]
+}

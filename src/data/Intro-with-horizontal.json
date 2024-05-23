@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Architecture & interior", "second": "Innovative Architecture" },
+    "content": {
+      "first": "Pushing Boundaries, Shaping the Future, and Transforming",
+      "second": " the Way We Experience Built Environments"
+    },
+    "image": "/assets/img/Architectures/bannerimg.jpg"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Architecture & interior", "second": "Classic And Modern" },
+    "content": {
+      "first": "Unveiling the Seamless Integration of Classic ",
+      "second": "and Modern Design Aesthetics"
+    },
+    "image": "/assets/img/Architectures/banner2.jpg"
+  },
+  {
+    "id": 3,
+    "title": { "first": "Architecture & interior", "second": "Elegant And Unique" },
+    "content": {
+      "first": "Transforming Ordinary Spaces into Elegant Masterpieces",
+      "second": " with Our Unique and Creative Designs"
+    },
+    "image": "/assets/img/Architectures/banner3.jpg"
+  },
+  {
+    "id": 4,
+    "title": {
+      "first": "Architecture & interior",
+      "second": "Interior Design Agency"
+    },
+    "content": {
+      "first": "Bring Your Dream House from Paper to Reality with",
+      "second": " Our Experienced and Creative Team."
+    },
+    "image": "/assets/img/Architectures/banner4.jpg"
+  }
+]

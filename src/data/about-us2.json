@@ -1,0 +1,26 @@
+{
+  "title": {
+    "first": "Best Designers",
+    "second": "Architectures for You."
+  },
+  "image1": "/assets/img/Architectures/about1.jpg",
+  "image2": "/assets/img/Architectures/about2.jpg",
+  "content": "We are a team dedicated to delivering innovative and sustainable solutions, with a focus on creativity and client satisfaction. Our comprehensive range of services spans from conceptualization to project completion across various sectors, ensuring personalized attention and meticulous craftsmanship for each project.",
+
+  "exp": 21,
+  "textList": [
+    {
+      "id": 1,
+      "name": "Architecture"
+    },
+    {
+      "id": 2,
+      "name": "Interior Design"
+    },
+    {
+      "id": 3,
+      "name": " HOSPITALITY DESIGN"
+    }
+    
+  ]
+}
